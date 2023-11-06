@@ -249,7 +249,7 @@ if (!isset($_SESSION['username'])) {
                         <!-- Produk 1 -->
                         <div class="col-md-3">
                             <div class="product">
-                            <img src="dist/img/bola1.jpeg" alt="Product 1">
+                            <img src="dist/img/avatar1.png" alt="Product 1">
                             <h3>Mikasa Fiv 3</h3>
                             <p>Harga Rp. 300.000,00</p>
                             </div>
@@ -258,7 +258,7 @@ if (!isset($_SESSION['username'])) {
                         <!-- Produk 2 -->
                         <div class="col-md-3">
                             <div class="product">
-                            <img src="dist/img/bola2.jpeg" alt="Product 2">
+                            <img src="dist/img/avatar2.png" alt="Product 2">
                             <h3>Spalding.</h3>
                             <p>Harga Rp. 300.000,00</p>
                             </div>
@@ -267,7 +267,7 @@ if (!isset($_SESSION['username'])) {
                         <!-- Produk 3 -->
                         <div class="col-md-3">
                             <div class="product">
-                            <img src="dist/img/bola4.jpeg" alt="Product 3">
+                            <img src="dist/img/avatar3.png" alt="Product 3">
                             <h3>Ortuseight</h3>
                             <p>Harga Rp. 500.000,00</p>
                             </div>
@@ -276,7 +276,7 @@ if (!isset($_SESSION['username'])) {
                         <!-- Produk 4 -->
                         <div class="col-md-3">
                             <div class="product">
-                            <img src="dist/img/bola5.jpeg" alt="Product 4">
+                            <img src="dist/img/avatar4.png" alt="Product 4">
                             <h3>Molten Fiba</h3>
                             <p>Harga Rp. 600.000,00</p>
                             </div>
@@ -285,7 +285,7 @@ if (!isset($_SESSION['username'])) {
                         <!-- Produk 5 -->
                         <div class="col-md-3">
                             <div class="product">
-                            <img src="dist/img/bola6.jpeg" alt="Product 5">
+                            <img src="dist/img/avatar5.png" alt="Product 5">
                             <h3>Molten</h3>
                             <p>Harga Rp. 600.000,00</p>
                             </div>
@@ -294,7 +294,7 @@ if (!isset($_SESSION['username'])) {
                         <!-- Produk 6 -->
                         <div class="col-md-3">
                             <div class="product">
-                            <img src="dist/img/bola7.jpeg" alt="Product 6">
+                            <img src="dist/img/avatar6.png" alt="Product 6">
                             <h3>Bola sepak</h3>
                             <p>Harga Rp. 50.000,00</p>
                             </div>
@@ -303,7 +303,7 @@ if (!isset($_SESSION['username'])) {
                         <!-- Produk 7 -->
                         <div class="col-md-3">
                             <div class="product">
-                            <img src="dist/img/bola8.jpeg" alt="Product 7">
+                            <img src="dist/img/avatar7.png" alt="Product 7">
                             <h3>Bola sepak</h3>
                             <p>Harga Rp. 150.000,00</p>
                             </div>
@@ -312,7 +312,7 @@ if (!isset($_SESSION['username'])) {
                         <!-- produk terakir-->
                         <div class="col-md-3">
                             <div class="product">
-                            <img src="dist/img/bola1.jpeg" alt="Product 7">
+                            <img src="dist/img/avatar7.png" alt="Product 7">
                             <h3>Mikasa Fiv 3</h3>
                             <p>Harga Rp. 600.000,00</p>
                             </div>
